@@ -168,3 +168,70 @@ nav>img{
     width: 370px;
     margin-top: 10px;
 }
+.email{
+    text-align: center;
+    margin: 100px;
+    background-color: blanchedalmond;
+    padding: 60px;
+    
+}
+.email-para{
+    padding: 10px 120px;
+    
+}
+.newsletter{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#light{
+    color: rgb(109, 105, 105);
+}
+
+#tt{
+    padding: 8px;
+    font-size: 15px;
+    border: none;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+#tty{
+    padding: 7px;
+    background-color: red;
+    color: white;
+    font-weight: 900;
+    font-size: 13px;
+    border: none;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+footer{
+    background-color: rgb(24, 17, 31);
+    padding: 60px 150px;
+    color: rgb(199, 187, 187);
+    font-weight: 600;
+    
+}
+.first-half{
+    display: flex;
+}
+.right-side{
+    padding-left: 600px;
+}
+#social-link{
+    text-align: center;
+}
+footer>div>a>img{
+    height: 40px;
+    width: 40px;
+}
+#right-side-button{
+    margin-left: 700px;
+    border: none;
+    color: rgb(199, 187, 187);
+   
+}
+footer>div>p>a{
+    text-decoration: none;
+    color: inherit;
+}
